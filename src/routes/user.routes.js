@@ -14,3 +14,5 @@ router.post("/register", (req, res) => {
 router.route("/login").post(loginUser);
 
 export default router;
+
+// console.log("first")
